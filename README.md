@@ -34,10 +34,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/codERSunny812/LeetSolutions/tree/master/0058-length-of-last-word) |
+| [0812-rotate-string](https://github.com/codERSunny812/LeetSolutions/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/codERSunny812/LeetSolutions/tree/master/1205-defanging-an-ip-address) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codERSunny812/LeetSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codERSunny812/LeetSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/codERSunny812/LeetSolutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
