@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codERSunny812/LeetSolutions/tree/master/0001-two-sum) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/codERSunny812/LeetSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codERSunny812/LeetSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/codERSunny812/LeetSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/codERSunny812/LeetSolutions/tree/master/2128-reverse-prefix-of-word) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/codERSunny812/LeetSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/codERSunny812/LeetSolutions/tree/master/0812-rotate-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/codERSunny812/LeetSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Brainteaser
 |  |
 | ------- |
