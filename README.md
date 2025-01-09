@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0202-happy-number) |
+| [2128-reverse-prefix-of-word](https://github.com/codERSunny812/LeetSolutions/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/codERSunny812/LeetSolutions/tree/master/1205-defanging-an-ip-address) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codERSunny812/LeetSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/codERSunny812/LeetSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2128-reverse-prefix-of-word](https://github.com/codERSunny812/LeetSolutions/tree/master/2128-reverse-prefix-of-word) |
 ## Counting
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/codERSunny812/LeetSolutions/tree/master/0292-nim-game) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/codERSunny812/LeetSolutions/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
