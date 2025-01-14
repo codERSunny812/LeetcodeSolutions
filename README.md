@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/codERSunny812/LeetSolutions/tree/master/0292-nim-game) |
 | [2383-add-two-integers](https://github.com/codERSunny812/LeetSolutions/tree/master/2383-add-two-integers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/codERSunny812/LeetSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/codERSunny812/LeetSolutions/tree/master/0258-add-digits) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/codERSunny812/LeetSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/codERSunny812/LeetSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -93,8 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/codERSunny812/LeetSolutions/tree/master/0389-find-the-difference) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/codERSunny812/LeetSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/codERSunny812/LeetSolutions/tree/master/0389-find-the-difference) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/codERSunny812/LeetSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
