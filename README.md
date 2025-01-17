@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/codERSunny812/LeetSolutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/codERSunny812/LeetSolutions/tree/master/0389-find-the-difference) |
 | [0816-design-hashset](https://github.com/codERSunny812/LeetSolutions/tree/master/0816-design-hashset) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codERSunny812/LeetSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/codERSunny812/LeetSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codERSunny812/LeetSolutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/codERSunny812/LeetSolutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/codERSunny812/LeetSolutions/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/codERSunny812/LeetSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0816-design-hashset](https://github.com/codERSunny812/LeetSolutions/tree/master/0816-design-hashset) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/codERSunny812/LeetSolutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/codERSunny812/LeetSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/codERSunny812/LeetSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/codERSunny812/LeetSolutions/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
@@ -124,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/codERSunny812/LeetSolutions/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
