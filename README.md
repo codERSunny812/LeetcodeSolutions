@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/codERSunny812/LeetSolutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/codERSunny812/LeetSolutions/tree/master/0389-find-the-difference) |
 | [0816-design-hashset](https://github.com/codERSunny812/LeetSolutions/tree/master/0816-design-hashset) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/codERSunny812/LeetSolutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/codERSunny812/LeetSolutions/tree/master/0292-nim-game) |
 | [2383-add-two-integers](https://github.com/codERSunny812/LeetSolutions/tree/master/2383-add-two-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/codERSunny812/LeetSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/codERSunny812/LeetSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0816-design-hashset](https://github.com/codERSunny812/LeetSolutions/tree/master/0816-design-hashset) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/codERSunny812/LeetSolutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/codERSunny812/LeetSolutions/tree/master/0389-find-the-difference) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/codERSunny812/LeetSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/codERSunny812/LeetSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/codERSunny812/LeetSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/codERSunny812/LeetSolutions/tree/master/0389-find-the-difference) |
 ## Recursion
@@ -133,5 +138,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
