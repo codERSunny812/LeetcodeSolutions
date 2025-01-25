@@ -152,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/codERSunny812/LeetSolutions/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
