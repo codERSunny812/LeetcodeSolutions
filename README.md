@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/codERSunny812/LeetSolutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/codERSunny812/LeetSolutions/tree/master/0816-design-hashset) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/codERSunny812/LeetSolutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/codERSunny812/LeetSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0792-binary-search](https://github.com/codERSunny812/LeetSolutions/tree/master/0792-binary-search) |
 ## Database
 |  |
 | ------- |
