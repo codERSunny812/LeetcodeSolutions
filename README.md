@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/codERSunny812/LeetSolutions/tree/master/0258-add-digits) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/codERSunny812/LeetSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/codERSunny812/LeetSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/codERSunny812/LeetSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/codERSunny812/LeetSolutions/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/codERSunny812/LeetSolutions/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/codERSunny812/LeetSolutions/tree/master/1205-defanging-an-ip-address) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/codERSunny812/LeetSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codERSunny812/LeetSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/codERSunny812/LeetSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/codERSunny812/LeetSolutions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/codERSunny812/LeetSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/codERSunny812/LeetSolutions/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
 |  |
