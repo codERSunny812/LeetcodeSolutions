@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/codERSunny812/LeetSolutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/codERSunny812/LeetSolutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/codERSunny812/LeetSolutions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/codERSunny812/LeetSolutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0263-ugly-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/codERSunny812/LeetSolutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/codERSunny812/LeetSolutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/codERSunny812/LeetSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/codERSunny812/LeetSolutions/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codERSunny812/LeetSolutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/codERSunny812/LeetSolutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/codERSunny812/LeetSolutions/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/codERSunny812/LeetSolutions/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/codERSunny812/LeetSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
