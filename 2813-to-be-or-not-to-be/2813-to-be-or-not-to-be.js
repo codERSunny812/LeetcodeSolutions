@@ -4,24 +4,20 @@
  */
 var expect = function(val) {
 
-  return {
-    toBe:function (m){
+    return {
+        toBe:function(val1){
 
-        if(m == val)  return  true;
+            if(val1 != val ) throw new Error("Not Equal")
+            else return true;
 
-        return throw new Error("Not Equal");
+        },
+        notToBe: function (val2){
 
-    },
-    notToBe:function (n){
+            if(val2 == val) throw new Error("Equal") else return true;
 
-        if(n != val) return  true;
-
-        return throw new Error("Not Equal")
-
-
-
+        }
     }
-  }  
+    
 };
 
 /**
