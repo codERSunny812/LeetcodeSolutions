@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/codERSunny812/LeetSolutions/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/codERSunny812/LeetSolutions/tree/master/0506-relative-ranks) |
 | [0792-binary-search](https://github.com/codERSunny812/LeetSolutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/codERSunny812/LeetSolutions/tree/master/0816-design-hashset) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/codERSunny812/LeetSolutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/codERSunny812/LeetSolutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/codERSunny812/LeetSolutions/tree/master/0506-relative-ranks) |
 ## Recursion
 |  |
 | ------- |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/codERSunny812/LeetSolutions/tree/master/1013-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/codERSunny812/LeetSolutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
