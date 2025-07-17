@@ -1,18 +1,31 @@
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val, next) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.next = (next===undefined ? null : next)
+ * }
+ */
+/**
+ * @param {ListNode} head
+ * @return {ListNode}
+ */
 var middleNode = function(head) {
-    let cnt = 0;
-    let curr = head;
 
-    // Count all nodes correctly
-    while (curr !== null) {
-        cnt++;
-        curr = curr.next;
+    if(head == null) return;
+
+    if(head.next == null) return head;
+
+    let slow = head;
+    let fast = head;
+
+    while(fast && fast.next){
+        slow =slow.next;
+        fast=fast.next.next;
     }
 
-    // Now move cnt/2 steps to reach middle
-    curr = head;
-    for (let i = 0; i < Math.floor(cnt / 2); i++) {
-        curr = curr.next;
-    }
 
-    return curr;
+    return slow;
+
+
+    
 };
