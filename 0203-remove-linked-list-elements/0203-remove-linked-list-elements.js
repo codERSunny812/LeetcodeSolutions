@@ -14,9 +14,9 @@ var removeElements = function(head, val) {
 
     if(!head) return null;
 
-    if(head.val == val) {
-        head = head.next;
-    }
+    // if(head.val == val) {
+    //     head = head.next;
+    // }
 
     let curr = head;
     let prev =null;
