@@ -37,9 +37,9 @@ var removeNthFromEnd = function(head, n) {
     }
 
     // curr 2 is at the nth node from the end 
-    let tmp = curr2.next;
-    prev.next = curr2.next;
-    curr2 = tmp;
+   
+    prev.next = prev.next.next;
+ 
     
 
 
