@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/codERSunny812/LeetSolutions/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/codERSunny812/LeetSolutions/tree/master/0816-design-hashset) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codERSunny812/LeetSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/codERSunny812/LeetSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -122,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/codERSunny812/LeetSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3194-find-words-containing-character](https://github.com/codERSunny812/LeetSolutions/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/codERSunny812/LeetSolutions/tree/master/3396-valid-word) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/codERSunny812/LeetSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/codERSunny812/LeetSolutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/0229-majority-element-ii) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codERSunny812/LeetSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/codERSunny812/LeetSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
