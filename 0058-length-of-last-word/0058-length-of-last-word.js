@@ -20,11 +20,10 @@ var lengthOfLastWord = function(s) {
 
 
     // new length after the end space is removed
-    let newLen = s.length-1;
-    console.log("new string length after end space is removeed",newLen)
+     const newLen = length
     let strLen = 0;
 
-    for(let i=length;i>=0;i--){
+    for(let i=newLen;i>=0;i--){
         if(s[i] != " " ){
             strLen++;
         }else{
