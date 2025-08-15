@@ -37,24 +37,51 @@ var isPalindrome = function(s) {
 
 
 
-        s = s.toLowerCase();
+    //  approach - 2
 
-    console.log(s)
-    let filteredStr = "";
-    let rev = "";
-    for(let i=0;i<s.length;i++){
-        if(s[i].match(/[a-z0-9]/i)){
-            filteredStr+=s[i];
-            rev = s[i]+rev
+    // s = s.toLowerCase();
 
+    // console.log(s)
+    // let filteredStr = "";
+    // let rev = "";
+    // for(let i=0;i<s.length;i++){
+    //     if(s[i].match(/[a-z0-9]/i)){
+    //         filteredStr+=s[i];
+    //         rev = s[i]+rev
+
+    //     }
+
+    // }
+
+    // console.log(filteredStr);
+    // console.log(rev)
+
+    // return filteredStr === rev;
+
+    // approach - 3
+
+     s= s.toLowerCase();
+
+     let i=0;
+     let j = s.length-1;
+
+     while(i<j){
+        if(!(s[i].match(/[a-z0-9]/i))){
+            ++i;
+        }else if(!(s[j].match(/[a-z0-9]/i))){
+            --j;
+        }else if(s[i] == s[j]){
+            ++i;
+            --j;
+        }else{
+            return false;
         }
+     }
 
-    }
 
-    console.log(filteredStr);
-    console.log(rev)
+     return true;
 
-    return filteredStr === rev;
+
 
 
 
