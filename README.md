@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/codERSunny812/LeetSolutions/tree/master/0595-big-countries) |
 | [1801-average-time-of-process-per-machine](https://github.com/codERSunny812/LeetSolutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/codERSunny812/LeetSolutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Greedy
