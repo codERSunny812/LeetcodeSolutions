@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/codERSunny812/LeetSolutions/tree/master/0595-big-countries) |
+| [1153-product-sales-analysis-i](https://github.com/codERSunny812/LeetSolutions/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/codERSunny812/LeetSolutions/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/codERSunny812/LeetSolutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1801-average-time-of-process-per-machine](https://github.com/codERSunny812/LeetSolutions/tree/master/1801-average-time-of-process-per-machine) |
