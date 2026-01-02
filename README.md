@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0389-find-the-difference](https://github.com/codERSunny812/LeetSolutions/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/codERSunny812/LeetSolutions/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/codERSunny812/LeetSolutions/tree/master/0816-design-hashset) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/codERSunny812/LeetSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codERSunny812/LeetSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/codERSunny812/LeetSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/codERSunny812/LeetSolutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/codERSunny812/LeetSolutions/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/codERSunny812/LeetSolutions/tree/master/0948-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/codERSunny812/LeetSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/codERSunny812/LeetSolutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/codERSunny812/LeetSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/codERSunny812/LeetSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
