@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/codERSunny812/LeetSolutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/codERSunny812/LeetSolutions/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codERSunny812/LeetSolutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1903-largest-odd-number-in-string](https://github.com/codERSunny812/LeetSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/codERSunny812/LeetSolutions/tree/master/2383-add-two-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/codERSunny812/LeetSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0812-rotate-string](https://github.com/codERSunny812/LeetSolutions/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/codERSunny812/LeetSolutions/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/codERSunny812/LeetSolutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/codERSunny812/LeetSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/codERSunny812/LeetSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/codERSunny812/LeetSolutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/codERSunny812/LeetSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/codERSunny812/LeetSolutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/codERSunny812/LeetSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/codERSunny812/LeetSolutions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Dynamic Programming
 |  |
