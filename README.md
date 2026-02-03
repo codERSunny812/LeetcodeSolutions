@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2292-counting-words-with-a-given-prefix](https://github.com/codERSunny812/LeetSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/codERSunny812/LeetSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3194-find-words-containing-character](https://github.com/codERSunny812/LeetSolutions/tree/master/3194-find-words-containing-character) |
+| [3637-trionic-array-i](https://github.com/codERSunny812/LeetSolutions/tree/master/3637-trionic-array-i) |
 ## String
 |  |
 | ------- |
