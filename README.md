@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0816-design-hashset](https://github.com/codERSunny812/LeetSolutions/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/codERSunny812/LeetSolutions/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codERSunny812/LeetSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/codERSunny812/LeetSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/codERSunny812/LeetSolutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/codERSunny812/LeetSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/codERSunny812/LeetSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
