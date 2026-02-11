@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/codERSunny812/LeetSolutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/codERSunny812/LeetSolutions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/codERSunny812/LeetSolutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/codERSunny812/LeetSolutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/codERSunny812/LeetSolutions/tree/master/0231-power-of-two) |
@@ -275,12 +276,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/codERSunny812/LeetSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codERSunny812/LeetSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/codERSunny812/LeetSolutions/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/codERSunny812/LeetSolutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/codERSunny812/LeetSolutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/codERSunny812/LeetSolutions/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
