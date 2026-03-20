@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/codERSunny812/LeetSolutions/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/codERSunny812/LeetSolutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/codERSunny812/LeetSolutions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/codERSunny812/LeetSolutions/tree/master/1148-article-views-i) |
