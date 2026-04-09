@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/codERSunny812/LeetSolutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/codERSunny812/LeetSolutions/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/codERSunny812/LeetSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/codERSunny812/LeetSolutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/codERSunny812/LeetSolutions/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0816-design-hashset](https://github.com/codERSunny812/LeetSolutions/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/codERSunny812/LeetSolutions/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/codERSunny812/LeetSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/codERSunny812/LeetSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codERSunny812/LeetSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/codERSunny812/LeetSolutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/codERSunny812/LeetSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/codERSunny812/LeetSolutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/codERSunny812/LeetSolutions/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/codERSunny812/LeetSolutions/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/codERSunny812/LeetSolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
 | ------- |
