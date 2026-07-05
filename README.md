@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codERSunny812/LeetSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/codERSunny812/LeetSolutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/codERSunny812/LeetSolutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/codERSunny812/LeetSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/codERSunny812/LeetSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/codERSunny812/LeetSolutions/tree/master/0228-summary-ranges) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/codERSunny812/LeetSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codERSunny812/LeetSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/codERSunny812/LeetSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/codERSunny812/LeetSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/codERSunny812/LeetSolutions/tree/master/0792-binary-search) |
@@ -326,9 +328,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/codERSunny812/LeetSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/0219-contains-duplicate-ii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/codERSunny812/LeetSolutions/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/codERSunny812/LeetSolutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
