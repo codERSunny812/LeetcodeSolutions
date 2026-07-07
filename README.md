@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1903-largest-odd-number-in-string](https://github.com/codERSunny812/LeetSolutions/tree/master/1903-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/codERSunny812/LeetSolutions/tree/master/2383-add-two-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/codERSunny812/LeetSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/codERSunny812/LeetSolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
 | ------- |
