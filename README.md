@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2383-add-two-integers](https://github.com/codERSunny812/LeetSolutions/tree/master/2383-add-two-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/codERSunny812/LeetSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/codERSunny812/LeetSolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2292-counting-words-with-a-given-prefix](https://github.com/codERSunny812/LeetSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3194-find-words-containing-character](https://github.com/codERSunny812/LeetSolutions/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/codERSunny812/LeetSolutions/tree/master/3396-valid-word) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/codERSunny812/LeetSolutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -358,4 +360,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codERSunny812/LeetSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/codERSunny812/LeetSolutions/tree/master/0713-subarray-product-less-than-k) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
