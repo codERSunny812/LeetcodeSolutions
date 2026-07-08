@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/codERSunny812/LeetSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/codERSunny812/LeetSolutions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/codERSunny812/LeetSolutions/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/codERSunny812/LeetSolutions/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/codERSunny812/LeetSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/codERSunny812/LeetSolutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/codERSunny812/LeetSolutions/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/codERSunny812/LeetSolutions/tree/master/0844-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/codERSunny812/LeetSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/codERSunny812/LeetSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/codERSunny812/LeetSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0541-reverse-string-ii](https://github.com/codERSunny812/LeetSolutions/tree/master/0541-reverse-string-ii) |
 | [0782-jewels-and-stones](https://github.com/codERSunny812/LeetSolutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/codERSunny812/LeetSolutions/tree/master/0812-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/codERSunny812/LeetSolutions/tree/master/0844-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/codERSunny812/LeetSolutions/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/codERSunny812/LeetSolutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/codERSunny812/LeetSolutions/tree/master/1903-largest-odd-number-in-string) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/codERSunny812/LeetSolutions/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/codERSunny812/LeetSolutions/tree/master/0844-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/codERSunny812/LeetSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/codERSunny812/LeetSolutions/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
