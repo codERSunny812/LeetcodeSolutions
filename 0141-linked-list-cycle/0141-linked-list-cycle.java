@@ -11,24 +11,16 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-// check for the condition in which the LL has 0 or 1 element
-        if(head == null || head.next == null){
-            return false;
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+
+            if(slow == fast) return true;
         }
 
-        ListNode node1 = head;
-        ListNode node2 = head;
-        while(node2 != null && node2.next != null){
-            node1 = node1.next; //move one step 
-            node2= node2.next.next; //move two step 
-            if(node1 == node2){
-                return true;
-            }
-        }
-
-
-    return false;
-
-
+        return false;
     }
 }
