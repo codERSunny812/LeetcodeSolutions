@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0782-jewels-and-stones](https://github.com/codERSunny812/LeetSolutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/codERSunny812/LeetSolutions/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/codERSunny812/LeetSolutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codERSunny812/LeetSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/codERSunny812/LeetSolutions/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/codERSunny812/LeetSolutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/codERSunny812/LeetSolutions/tree/master/1903-largest-odd-number-in-string) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/codERSunny812/LeetSolutions/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/codERSunny812/LeetSolutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codERSunny812/LeetSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/codERSunny812/LeetSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/codERSunny812/LeetSolutions/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
